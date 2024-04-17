@@ -1,4 +1,0 @@
-repository "Title Screen Siberian Swings@SiberianSwings@cloud"
-  path "/"
-    br "/main"
-    co "/main"
